@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanKings007
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Java
+- 🌱 prog-lang-----> Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with GitHub
 
